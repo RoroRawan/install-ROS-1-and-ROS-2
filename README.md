@@ -1,1 +1,1 @@
-# installation-of-ROS-1-and-ROS-2
+# install-ROS-1-and-ROS-2
